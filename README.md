@@ -1,4 +1,6 @@
-# react-big-calendar
+# Fork of react-big-calendar
+
+This work was created to remove event limit in month view
 
 An events calendar component built for React and made for modern browsers (read: IE10+) and uses flexbox over the classic tables-ception approach.
 
@@ -114,7 +116,6 @@ const MyCalendar = props => (
 
 Out of the box, you can include the compiled CSS files and be up and running. But, sometimes, you may want to style
 Big Calendar to match your application styling. For this reason, SASS files are included with Big Calendar.
-
 
 ```
   @import 'react-big-calendar/lib/sass/styles';
