@@ -1,6 +1,7 @@
 # Fork of react-big-calendar
 
-This work was created to remove event limit in month view
+This work was created to remove event limit in month view.
+https://github.com/jquense/react-big-calendar/pull/151
 
 An events calendar component built for React and made for modern browsers (read: IE10+) and uses flexbox over the classic tables-ception approach.
 
